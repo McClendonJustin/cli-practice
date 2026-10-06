@@ -1,0 +1,2 @@
+This is my test.
+I am entering text using nano, from the terminal, withing VSCode.
